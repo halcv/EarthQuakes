@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">地震情報</string>
+    <string name="get">地震情報取得</string>
+    <string name="data_get_error">地震情報が取得できませんでした。</string>
+    <string name="no_data">地震情報がありません。</string>
+    <string name="date">日付：</string>
+    <string name="getQuakeInfo">地震情報を取得しています。</string>
+    
+</resources>
